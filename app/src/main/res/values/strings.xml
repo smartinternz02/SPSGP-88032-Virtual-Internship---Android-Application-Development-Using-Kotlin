@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Grocery Cart</string>
+    <string name="item_name">NAME</string>
+    <string name="quantity">kg:</string>
+    <string name="rate">Rate</string>
+    <string name="total_cost">Total:</string>
+    <string name="delete_question">Are you sure you want to delete?</string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+
+    <string name="search">SEARCH ITEM</string>
+
+    <string name="button">click button</string>
+    <string name="dialogTitle">Delete File</string>
+    <string name="dialogMessage">Are you sure you want to delete item</string>
+</resources>
