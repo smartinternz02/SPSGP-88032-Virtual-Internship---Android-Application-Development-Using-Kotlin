@@ -8,7 +8,8 @@ Demo Link for Project 2 : Grocery App -> https://drive.google.com/file/d/1rWi7gw
 
 Demo link on youtube : -> https://youtu.be/CSSf3t_TChs
 
-Dashboard link -> https://smartinternz.com/Student/guided_project_workspace/88032
+Dashboard link -> https://smartinternz.com/student-profile/feed/U0IyMDIyMDIzNjQ0OA==
+                  https://smartinternz.com/Student/guided_project_workspace/88032
 
 
 Output->
